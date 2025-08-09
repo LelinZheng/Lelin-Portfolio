@@ -953,8 +953,8 @@ body.offcanvas {
       height: 300px; }
       .project .desc .con .icon {
         position: absolute;
-        bottom: 20px;
-        left: 20px;
+        bottom: -20px;
+        left: 30px;
         right: 20px; }
         .project .desc .con .icon span {
           display: inline;
